@@ -1,7 +1,7 @@
 /*
  * anomaly_detection_util.cpp
  *
- * Author: Gitali Naim 206945271
+ * Author: Gitali Naim
  */
 
 #include <math.h>
